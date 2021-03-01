@@ -1,1 +1,3 @@
 this is second file
+
+Изменения в другом файле conflict_br
