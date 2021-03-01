@@ -1,3 +1,5 @@
 init 2
 
+nfrom conf2
+
 
