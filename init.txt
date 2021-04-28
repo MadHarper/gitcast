@@ -1,3 +1,5 @@
 init 2
 
+FROM "revert_merge_branch"
+
 nfrom conf2
