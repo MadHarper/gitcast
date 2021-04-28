@@ -1,6 +1,3 @@
 init 2
 
-FOR RESET HARD
-
-
 nfrom conf2
